@@ -68,3 +68,35 @@ after cd .. command : /workspaces/React-learning-journey
 :-----------: Lecture 4 : Create react library and JSX  :-----------:
 
 REACT uses bundlers as vite or other 
+
+:-----------: Lecture 5 : Why we need Hooks and Project :-----------:
+
+main file is main.jsx where app loads.
+React reacts on variable updation.
+
+Every hook has special job for specific task.
+
+
+:-----------: Lecture 6 : Virtual DOM, Fibre and reconciliation :-----------:
+
+React fibre architecture -  
+
+REACT uses bundlers as vite or other 
+
+Reconciliation : 
+the algorithm react uses to diff one tree with another to determine which pars need to be changed
+
+update : 
+A change in the data used to render a react app.usually the result of setState. Eventually results in a re-render
+
+reconciliation is the algorithm behind what is popularly understood as the "Virtual DOM"
+
+Fibre : 
+fibres are a much lower level abstraction than application developers typically think about. 
+
+:-----------: Lecture 7 : Tailwind and Props in React JS:-----------:
+
+Pexels : website to get free images.
+Devui.io : 
+
+:-----------: Lecture 8 :A react interview question on counter :-----------:
