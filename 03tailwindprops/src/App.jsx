@@ -11,9 +11,9 @@ function App() {
     age:20
   }
 
-  return ( 
+  return (
   <>
-    <h1 className='bg-green-400 text-black p-4 rounded-xl md-4  bg-black' >Tailwind Test </h1>
+    <h1 className='bg-green-400 text-black p-4 rounded-xl md-4' >Tailwind Test </h1>
     <Card username="chaiaurcode" btnText="click me" />
     <Card username="hitesh" btnText="visit me" /> 
 

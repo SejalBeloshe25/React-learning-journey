@@ -100,3 +100,7 @@ Pexels : website to get free images.
 Devui.io : 
 
 :-----------: Lecture 8 :A react interview question on counter :-----------:
+
+:-----------: Lecture 9 : Building a react project :-----------:
+
+:-----------: Lecture 10 : useEffect, useRef and useCallback with 1 project :-----------:
