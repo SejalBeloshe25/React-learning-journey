@@ -104,3 +104,7 @@ Devui.io :
 :-----------: Lecture 9 : Building a react project :-----------:
 
 :-----------: Lecture 10 : useEffect, useRef and useCallback with 1 project :-----------:
+
+:-----------: Lecture 11: Custom Hooks :-----------:
+
+:-----------: Lecture 12: React router crash course :-----------:
